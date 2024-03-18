@@ -1,0 +1,11 @@
+2022-10-12 17:39:48,223 INFO Insert into tLog and retrieve logID
+2022-10-12 17:39:48,398 INFO Created logID: 9b29ee3c-bc48-427a-b569-aeca165b7958
+2022-10-12 17:39:48,398 INFO Android Version Scraper Started
+2022-10-12 17:40:11,013 INFO Comparision started.
+2022-10-12 17:40:11,013 INFO Comparision completed.
+2022-10-12 17:40:11,028 INFO Unmatched records found.
+2022-10-12 17:40:11,028 INFO Unmatched records exported to D:/SGTAM_DP/Working Project/AppStoreGooglePlayStoreScraper/source/Android/output/
+2022-10-12 17:40:11,028 INFO Unmatched records exported to M:/05. Data Production/Project/AppStoreGooglePlayStoreScraper/files/Android/
+2022-10-12 17:40:12,664 INFO Updating tLog logID: 9b29ee3c-bc48-427a-b569-aeca165b7958 with status: 3
+2022-10-12 17:40:12,789 INFO There is/are unmatched record(s) or possibly an error, email is sent.
+2022-10-12 17:40:12,789 INFO Process ended.

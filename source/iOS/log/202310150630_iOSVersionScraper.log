@@ -1,0 +1,9 @@
+2023-10-15 06:30:03,284 INFO Insert into tLog and retrieve logID
+2023-10-15 06:30:03,502 INFO Created logID: 4794d417-4e03-4b4a-a541-ebaa2efaca5b
+2023-10-15 06:30:03,502 INFO iOS Version Scraper Started
+2023-10-15 06:30:28,018 INFO Today records exported to D:/SGTAM_DP/Working Project/AppStoreGooglePlayStoreScraper/source/iOS/output/iOS_apps_infos_2023-10-15.csv
+2023-10-15 06:30:28,018 INFO Comparision started.
+2023-10-15 06:30:28,033 INFO Comparision completed.
+2023-10-15 06:30:28,033 INFO No unmatched records.
+2023-10-15 06:30:28,033 INFO Updating tLog logID: 4794d417-4e03-4b4a-a541-ebaa2efaca5b with status: 1
+2023-10-15 06:30:28,190 INFO No unmatched records, email will not be sent.

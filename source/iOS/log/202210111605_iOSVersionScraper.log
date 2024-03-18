@@ -1,0 +1,16 @@
+2022-10-11 16:05:35,852 INFO Insert into tLog and retrieve logID
+2022-10-11 16:05:36,166 INFO Created logID: b3c4d961-cb46-41f3-9cb7-fac276258697
+2022-10-11 16:05:36,166 INFO iOS Version Scraper Started
+2022-10-11 16:05:36,181 INFO ====== WebDriver manager ======
+2022-10-11 16:05:37,463 INFO Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-11 16:05:39,823 INFO Driver [C:\Users\sgtamdp\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-11 16:06:06,224 INFO Today records exported to D:/SGTAM_DP/Working Project/AppStoreGooglePlayStoreScraper/source/iOS/output/iOS_apps_infos_2022-10-11.csv
+2022-10-11 16:06:06,241 INFO Today records exported to M:/05. Data Production/Project/AppStoreGooglePlayStoreScraper/files/iOS/iOS_apps_infos_2022-10-11.csv
+2022-10-11 16:06:06,243 INFO Comparision started.
+2022-10-11 16:06:06,252 INFO Comparision completed.
+2022-10-11 16:06:06,253 INFO Unmatched records found.
+2022-10-11 16:06:06,259 INFO Unmatched records exported to D:/SGTAM_DP/Working Project/AppStoreGooglePlayStoreScraper/source/iOS/output/
+2022-10-11 16:06:06,291 INFO Unmatched records exported to M:/05. Data Production/Project/AppStoreGooglePlayStoreScraper/files/iOS/
+2022-10-11 16:06:07,913 INFO Updating tLog logID: b3c4d961-cb46-41f3-9cb7-fac276258697 with status: 3
+2022-10-11 16:06:08,027 INFO There is/are unmatched record(s) or possibly an error, email is sent.
+2022-10-11 16:06:08,027 INFO Process ended.

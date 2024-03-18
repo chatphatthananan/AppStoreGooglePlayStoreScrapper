@@ -1,0 +1,10 @@
+2024-03-18 06:34:03,141 INFO Insert into tLog and retrieve logID
+2024-03-18 06:34:03,360 INFO Created logID: cc6812f0-85a8-41b1-8ac8-29b2225fe0f1
+2024-03-18 06:34:03,360 INFO Android Version Scraper Started
+2024-03-18 06:34:26,737 INFO Comparision started.
+2024-03-18 06:34:26,737 INFO Comparision completed.
+2024-03-18 06:34:26,737 INFO Unmatched records found.
+2024-03-18 06:34:26,752 INFO Unmatched records exported to D:/SGTAM_DP/Working Project/AppStoreGooglePlayStoreScraper/source/Android/output/
+2024-03-18 06:34:28,565 INFO Updating tLog logID: cc6812f0-85a8-41b1-8ac8-29b2225fe0f1 with status: 3
+2024-03-18 06:34:28,690 INFO There is/are unmatched record(s) or possibly an error, email is sent.
+2024-03-18 06:34:28,690 INFO Process ended.
